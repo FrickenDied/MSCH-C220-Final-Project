@@ -7,6 +7,7 @@ TagManager:
   - interactables
   - obstacle
   - door
+  - bookshelf
   layers:
   - Default
   - TransparentFX
